@@ -2,7 +2,8 @@
 conchImagenet: dhTTjjrxIcU
 conchrobustness: 49d5OOnyW8w
 cockImagenet: IMfDu-g6-yM
-tntpubfig: kOPb-fjI2h4
+
+tntpubfig: tqq7yLP0Skk
 tntrobust: -YXZU9Htk6Q
 tntmiscs: VM-gn3DFpEM
 ---
@@ -26,11 +27,13 @@ tntmiscs: VM-gn3DFpEM
 ### Targeted Attack with an input-agnostic Natural Adversarial Patch (TnT), an example *flower*, from the Natural Adversarial Patch Generator - PubFig Face Recognition Task
 
 #### The effectiveness of an example *flower* TnT 
+
 <a name="TnTPubFigEffect"></a>
 
 {% include youtubePlayer.html id=page.tntpubfig %}
 
 #### The robustness of an example *flower* TnT 
+
 <a name="TnTPubFigRobust"></a>
 
 {% include youtubePlayer.html id=page.tntrobust %}
