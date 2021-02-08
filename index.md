@@ -5,7 +5,7 @@ cockImagenet: rZ67D2zxPvs
 
 tntpubfig: tqq7yLP0Skk
 tntrobust: Zb7KNsO_ooA
-tntmiscs: VM-gn3DFpEM
+tntmiscs: Eh50B04phXI
 ---
 
 # Physical World Deployment Demonstration Videos
